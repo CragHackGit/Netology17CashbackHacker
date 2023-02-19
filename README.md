@@ -179,4 +179,4 @@ test {
 
 ![report](https://user-images.githubusercontent.com/100122714/219970743-c5c9dcbd-5c96-4cfb-8ef7-277b15ee5e7c.png)
 
-7\. Создайте в проекте issue, к которому приложите отчёты. В личном кабинете вам нужно будет отправить ссылку на тот issue, что вы создали для демонстрационного проекта: https://github.com/netology-code/aqa-hw-sample/issues/1.
+7\. Создайте в проекте issue, к которому приложите отчёты. В личном кабинете вам нужно будет отправить ссылку на тот issue, что вы создали для демонстрационного проекта: https://github.com/CragHackGit/Netology17CashbackHacker/issues
